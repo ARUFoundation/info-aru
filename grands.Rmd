@@ -1,0 +1,14 @@
+---
+title: "Grands"
+author: "Alvaro Chirino Gutierrez"
+date: "11/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Institutional grants
+
+  * https://tinker.org/information-on-2021-application-cycles/ 
