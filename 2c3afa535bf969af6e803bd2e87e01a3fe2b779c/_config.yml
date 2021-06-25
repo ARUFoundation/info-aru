@@ -1,12 +1,12 @@
 #------------------------------------------------------------------------------
 # General
 #------------------------------------------------------------------------------
-name: "Minimal-Block"
-description: "Minimalistic, friendly, responsive."
+name: "Fundación Aru, Información de gestión"
+description: "Investigación de calidad, políticas basadas en evidencia"
 language: "en"
 
-url: http://localhost:4000
-baseurl: ''
+url: 
+baseurl: 'https://arufoundation.github.io/info-aru/2c3afa535bf969af6e803bd2e87e01a3fe2b779c/'
 
 #------------------------------------------------------------------------------
 # Markdown processor and code highlighting
