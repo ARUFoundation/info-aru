@@ -5,8 +5,8 @@ name: "Fundación Aru, Información de gestión"
 description: "Investigación de calidad, políticas basadas en evidencia"
 language: "en"
 
-url: 'https://arufoundation.github.io/info-aru/2c3afa535bf969af6e803bd2e87e01a3fe2b779c/'
-baseurl: 'https://arufoundation.github.io/info-aru/2c3afa535bf969af6e803bd2e87e01a3fe2b779c/'
+url: 'https://arufoundation.github.io/info-aru/'
+baseurl: 'https://arufoundation.github.io/info-aru/'
 
 #------------------------------------------------------------------------------
 # Markdown processor and code highlighting
