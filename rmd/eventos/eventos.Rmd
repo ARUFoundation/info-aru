@@ -1,0 +1,84 @@
+---
+title: "Reuniones, eventos y entregables"
+author: "Fundación Aru"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::robobook:
+    highlight: kate
+editor_options: 
+  chunk_output_type: console
+---
+```{r setup, include=FALSE}
+Sys.setlocale("LC_ALL", "Spanish")
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+library(calendR)
+```
+
+# Reuniones internas 2021
+
+## Julio 
+
+```{r}
+calendR(year = 2021, month = 7,        # Year and month
+        start = "M",                   # Start the week on Monday
+        text = c("Running", "Running", # Add text (only for monthly calendars)
+                 "Class"), 
+        text.pos = c(5, 5, 25),       # Days of the month where to put the texts 
+        text.size = 4.5,               # Font size of the text
+        text.col = 4) 
+```
+
+# Eventos 2021
+
+# Julio
+
+```{r}
+library(timelineS)
+
+# Build data frame with deliverables and their corresponding dates
+project <- data.frame(Deliverables = c("Project Start",
+                                       "Diagnosis Report",
+                                       "Pre-feseability Studies",
+                                       "Feseability Studies",
+                                       "Project Planning",
+                                       "Detailed Project Report",
+                                       "Project Network for Implementation",
+                                       "Final Report",
+                                       "Presentation to Stakeholders"),
+                      Deliverables_Dates = as.Date(c("2020-01-01",
+                                                     "2020-02-01",
+                                                     "2020-02-15",
+                                                     "2020-03-15",
+                                                     "2020-04-01",
+                                                     "2020-05-01",
+                                                     "2020-06-01",
+                                                     "2020-08-01",
+                                                     "2020-08-15")))
+
+# Build project deliverables timeline
+timelineS(project,
+          main = "Project Deliverables Timeline",
+          xlab = "Year 2020",
+          buffer.days = 35,
+          scale = "month",
+          scale.format = "%b",
+          label.direction = "downup",
+          label.cex = 0.75)
+box()
+```
+
+
+
+
