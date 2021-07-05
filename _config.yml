@@ -43,7 +43,7 @@ rss-show-full: false
 # Configuration, plugins, gems, etc..
 #------------------------------------------------------------------------------
 source: .
-destination: ./_site/info-aru
+destination: ./_site/
 gems: ['jekyll-paginate']
 
 sass:
