@@ -2,9 +2,17 @@
 title: "Iniciativas y equipos"
 author: "Fundación Aru - ACH"
 date: "4/7/2021"
-output: github_document
+output: 
+  github_document:
+    toc: true
+    toc_depth: 3
 ---
 
 # Iniciativas
+
+```{r}
+plot(density(rnorm(10000)))
+```
+
 
 # Equipos
