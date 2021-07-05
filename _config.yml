@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Fundación Aru
+title: Aru | Investigación de calidad políticas basadas en evidencia
+description: Información e iniciativas internas 
 tags:
   - blog
   - template
