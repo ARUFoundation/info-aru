@@ -12,9 +12,9 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Documentos administrativos
     url: /about
-  - title: Contact
+  - title: Directorio Aru
     url: /contact
   - title: Feed
     url: /feed.xml
