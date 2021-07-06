@@ -13,7 +13,7 @@ subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Descripción y acceso a información de la armonización de datos  
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgaZOJfNcg6jw5Mcv4QqD4cnrjz1173dKK5TgoNo8Rmlg3FNMmrBMf5TRkFtaz-Rq1nQU&usqp=CAU
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: data
