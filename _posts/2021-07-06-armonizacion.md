@@ -4,6 +4,9 @@ output:
   md_document:
     variant: markdown_github
     preserve_yaml: true
+    toc: true
+    toc_depth: 3
+toc: 
 layout: post
 title: Armonización de encuestas
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
