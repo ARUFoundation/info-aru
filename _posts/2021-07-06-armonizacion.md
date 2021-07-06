@@ -6,26 +6,44 @@ output:
     preserve_yaml: true
     toc: true
     toc_depth: 3
-toc: 
+  html_document:
+    toc: true
+    toc_depth: 3
 layout: post
 title: Armonización de encuestas
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'Documentos, bases, diccionararios y programación'
 description: >-
   Descripción y acceso a información de la armonización de datos  
 image: >-
   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgaZOJfNcg6jw5Mcv4QqD4cnrjz1173dKK5TgoNo8Rmlg3FNMmrBMf5TRkFtaz-Rq1nQU&usqp=CAU
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgaZOJfNcg6jw5Mcv4QqD4cnrjz1173dKK5TgoNo8Rmlg3FNMmrBMf5TRkFtaz-Rq1nQU&usqp=CAU
 category: data
 tags:
   - data
   - survey
-author: AlvaroChirino
+author: "Alvaro Chirino"
 paginate: true
 ---
 
-# Encuestas a hogares
+-   [Encuestas](#encuestas)
+    -   [Encuestas a hogares](#encuestas-a-hogares)
+    -   [Encuesta de Demografía y
+        Salud](#encuesta-de-demografía-y-salud)
+    -   [Encuesta continua de empleo](#encuesta-continua-de-empleo)
+-   [Responsables y equipo](#responsables-y-equipo)
 
-# Encuesta de Demografía y Salud
+# Encuestas
 
-# Encuesta continua de empleo
+## Encuestas a hogares
+
+## Encuesta de Demografía y Salud
+
+## Encuesta continua de empleo
+
+# Responsables y equipo
+
+-   
+-   
+-   
+-   
