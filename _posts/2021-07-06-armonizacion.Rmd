@@ -3,7 +3,7 @@ date: "6/7/2021"
 output: 
   md_document:
     variant: markdown_github
-keep_yaml: yes
+    preserve_yaml: true
 layout: post
 title: Armonización de encuestas
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'

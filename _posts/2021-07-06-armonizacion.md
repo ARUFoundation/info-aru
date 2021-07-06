@@ -1,3 +1,26 @@
+---
+date: "6/7/2021"
+output: 
+  md_document:
+    variant: markdown_github
+    preserve_yaml: true
+layout: post
+title: Armonización de encuestas
+subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+description: >-
+  Descripción y acceso a información de la armonización de datos  
+image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+optimized_image: >-
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+category: data
+tags:
+  - data
+  - survey
+author: AlvaroChirino
+paginate: true
+---
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
